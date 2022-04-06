@@ -1,3 +1,4 @@
+# Made by Alessandro Silvestri
 # ATM pin simulation
 # I created a function that checks if the pin code, insert by an user, is correct
 
