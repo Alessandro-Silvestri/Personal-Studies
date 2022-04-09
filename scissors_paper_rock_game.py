@@ -21,3 +21,5 @@ def paper_scissor_rock(p1, p2):
 
 paper_scissor_rock('p', 'r')
 # Player 1 won!
+
+
