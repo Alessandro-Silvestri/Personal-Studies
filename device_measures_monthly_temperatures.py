@@ -2,7 +2,6 @@
 Device for calculate the average of the temperatures in a month
 every hour there is a measurement
 Solved by Alessandro Silvestri for Python Institute
-I created a function that checks which player wins
 '''
 
 # I create an empty matrix list (bidimensional list)
