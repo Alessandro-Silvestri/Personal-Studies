@@ -1,8 +1,8 @@
 # BMI CALCULATOR
-# This program calculates your body mass index and tell you how many kg you should gain or loose
+# This program calculates your body mass index and tells you how many kg you should gain or loose
 # Made by Alessandro Silvestri
 
-weight = int(input('Insert your weight in kg: '))
+weight = float(input('Insert your weight in kg: '))
 height = float(input('Insert your height in meter: '))
 result = round(weight / height ** 2, 2)             # BMI formula
 kg_to_fix = 0
