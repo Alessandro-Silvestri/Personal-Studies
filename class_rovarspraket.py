@@ -1,5 +1,5 @@
-# Rovarspraket translator
-# This program convert a fiven word or a phrase in Rovarspraket
+# Rövarspråket translator
+# This program convert a fiven word or a phrase in the Swedish language game: Rövarspråket
 # Made by Alessandro Silvestri
 
 class Rovarspraket:
