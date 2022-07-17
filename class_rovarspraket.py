@@ -19,7 +19,7 @@ class Rovarspraket:
         return self.b
 
     def ask_user(self):
-        # Interface with the user, asking for the text an
+        # Interface with the user, asking for the text 
         while True:
             a = input('insert a phrase to translate in rovarspraket: > ')
             print(self.rovarspraket_translate(a))
