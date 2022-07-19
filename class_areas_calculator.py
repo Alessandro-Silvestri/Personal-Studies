@@ -48,13 +48,13 @@ class Calculator:
      def retry(self):
           # internal function for asking the user if he wants to use the program again and checks the answer
           while True:
-               retry_quest = input('do you want calculate other areas?: (s/n): ')
-               if retry_quest.lower() != 's' and retry_quest.lower() != 'n':
+               retry_quest = input('do you want calculate other areas?: (y/n): ')
+               if retry_quest.lower() != 'y' and retry_quest.lower() != 'n':
                     print('wrong command')
                else:
                     break
 
-          if retry_quest == 's':
+          if retry_quest == 'y':
                self.area_calculator()  
 
           if retry_quest == 'n':
