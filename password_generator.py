@@ -24,6 +24,7 @@ def password_generator(chrnum):
      return password
 
 # in the function I pass the password lenght
-print(password_generator(20))
+for i in range(20):
+     print(password_generator(40), password_generator(40), password_generator(40))
 
 
