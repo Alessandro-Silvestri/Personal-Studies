@@ -12,7 +12,6 @@ def password_generator(chrnum):
           password = chr(random.randint(65, 90))
      else:
           password = chr(random.randint(97, 122))
-
      # password generator loop
      character = ''
      counter = 1
