@@ -6,8 +6,7 @@
 import calendar
 
 class MyCalendar(calendar.Calendar):
-
-     # I create the method for counting the weekdays
+     
      def count_weekday_in_year(self, year, weekday):
           if weekday not in range(7):
                return 'error: weekday has to be between 0 and 6'
