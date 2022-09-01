@@ -1,12 +1,11 @@
 # WEEKDAY COUNTER of a GIVEN YEAR
 # This program asks the user to insert an year and a weekday.
-# It will calculate how many weehdays there are in the given year
+# It will calculate how many weekdays there are in the given year
 # By Alessandro Silvestri, assignement solved for Python Institute
 
 import calendar
 
-class MyCalendar(calendar.Calendar):
-     
+class MyCalendar(calendar.Calendar):    
      def count_weekday_in_year(self, year, weekday):
           if weekday not in range(7):
                return 'error: weekday has to be between 0 and 6'
@@ -19,6 +18,7 @@ class MyCalendar(calendar.Calendar):
           return day_result
 
 
+# User interface
 days_list = calendar.weekheader(9).split()
 print('\nYEAR WEEKDAY COUNTER')
 year = input('Insert the year: ')
