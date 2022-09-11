@@ -1,6 +1,6 @@
 # RISK DICE COMPARING
 # This program throws 6 dice (3 blue and 3 red), compares them and show the winner
-# according the Risko game rules
+# according the Risk game rules
 # Made by Alessandro Silvestri
 
 import random
