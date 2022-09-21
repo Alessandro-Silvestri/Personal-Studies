@@ -1,0 +1,266 @@
+{
+    "seat1": {
+        "A": true,
+        "B": false,
+        "C": false,
+        "D": false,
+        "E": false,
+        "F": false
+    },
+    "seat2": {
+        "A": false,
+        "B": false,
+        "C": false,
+        "D": false,
+        "E": false,
+        "F": false
+    },
+    "seat3": {
+        "A": true,
+        "B": false,
+        "C": false,
+        "D": false,
+        "E": false,
+        "F": false
+    },
+    "seat4": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": false,
+        "E": false,
+        "F": false
+    },
+    "seat5": {
+        "A": true,
+        "B": false,
+        "C": false,
+        "D": false,
+        "E": false,
+        "F": false
+    },
+    "seat6": {
+        "A": false,
+        "B": false,
+        "C": false,
+        "D": false,
+        "E": false,
+        "F": false
+    },
+    "seat7": {
+        "A": false,
+        "B": false,
+        "C": false,
+        "D": false,
+        "E": false,
+        "F": false
+    },
+    "seat8": {
+        "A": true,
+        "B": true,
+        "C": false,
+        "D": false,
+        "E": false,
+        "F": false
+    },
+    "seat9": {
+        "A": false,
+        "B": false,
+        "C": false,
+        "D": false,
+        "E": false,
+        "F": false
+    },
+    "seat10": {
+        "A": false,
+        "B": false,
+        "C": false,
+        "D": false,
+        "E": false,
+        "F": false
+    },
+    "seat11": {
+        "A": false,
+        "B": false,
+        "C": false,
+        "D": false,
+        "E": false,
+        "F": false
+    },
+    "seat12": {
+        "A": false,
+        "B": false,
+        "C": false,
+        "D": false,
+        "E": false,
+        "F": false
+    },
+    "seat13": {
+        "A": false,
+        "B": false,
+        "C": false,
+        "D": false,
+        "E": false,
+        "F": false
+    },
+    "seat14": {
+        "A": false,
+        "B": false,
+        "C": false,
+        "D": false,
+        "E": false,
+        "F": false
+    },
+    "seat15": {
+        "A": false,
+        "B": false,
+        "C": false,
+        "D": false,
+        "E": false,
+        "F": false
+    },
+    "seat16": {
+        "A": false,
+        "B": false,
+        "C": false,
+        "D": false,
+        "E": false,
+        "F": false
+    },
+    "seat17": {
+        "A": false,
+        "B": false,
+        "C": false,
+        "D": false,
+        "E": false,
+        "F": false
+    },
+    "seat18": {
+        "A": false,
+        "B": false,
+        "C": false,
+        "D": false,
+        "E": false,
+        "F": false
+    },
+    "seat19": {
+        "A": false,
+        "B": false,
+        "C": false,
+        "D": false,
+        "E": false,
+        "F": false
+    },
+    "seat20": {
+        "A": false,
+        "B": false,
+        "C": false,
+        "D": false,
+        "E": false,
+        "F": false
+    },
+    "seat21": {
+        "A": false,
+        "B": false,
+        "C": false,
+        "D": false,
+        "E": false,
+        "F": false
+    },
+    "seat22": {
+        "A": false,
+        "B": false,
+        "C": false,
+        "D": false,
+        "E": false,
+        "F": false
+    },
+    "seat23": {
+        "A": false,
+        "B": false,
+        "C": false,
+        "D": false,
+        "E": false,
+        "F": false
+    },
+    "seat24": {
+        "A": false,
+        "B": false,
+        "C": false,
+        "D": false,
+        "E": false,
+        "F": false
+    },
+    "seat25": {
+        "A": false,
+        "B": false,
+        "C": false,
+        "D": false,
+        "E": false,
+        "F": false
+    },
+    "seat26": {
+        "A": false,
+        "B": false,
+        "C": false,
+        "D": false,
+        "E": false,
+        "F": false
+    },
+    "seat27": {
+        "A": false,
+        "B": false,
+        "C": false,
+        "D": false,
+        "E": false,
+        "F": false
+    },
+    "seat28": {
+        "A": false,
+        "B": false,
+        "C": false,
+        "D": false,
+        "E": false,
+        "F": false
+    },
+    "seat29": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": false,
+        "E": false,
+        "F": false
+    },
+    "seat30": {
+        "A": false,
+        "B": false,
+        "C": true,
+        "D": true,
+        "E": true,
+        "F": true
+    },
+    "seat31": {
+        "A": false,
+        "B": false,
+        "C": false,
+        "D": false,
+        "E": false,
+        "F": false
+    },
+    "seat32": {
+        "A": false,
+        "B": false,
+        "C": false,
+        "D": false,
+        "E": false,
+        "F": false
+    },
+    "seat33": {
+        "A": false,
+        "B": false,
+        "C": false,
+        "D": false,
+        "E": false,
+        "F": false
+    }
+}
