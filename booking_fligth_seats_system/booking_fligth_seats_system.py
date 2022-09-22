@@ -17,14 +17,14 @@ class BookingSeats:
         with open('seats.json', 'r') as f:
             self.seats_dict = json.load(f)
 
-    def double_digit(self, num):
+    def double_digit(self, num:int):
         """ 2 digit fixing about the seats numbers """
         if len(str(num)) == 1:
             return f' {int(num)}'
         else:
             return num
     
-    def block_or_dot(self, n):
+    def block_or_dot(self, n:int):
         """ tool that replaces the value False with a dot '.' and the True with a block '█' """
         if n == 1:
             return '█'
