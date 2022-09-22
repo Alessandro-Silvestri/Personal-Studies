@@ -18,14 +18,14 @@ class BookingSeats:
             self.seats_dict = json.load(f)
 
     def double_digit(self, num):
-        # 2 digit fixing about the seats numbers
+        """ 2 digit fixing about the seats numbers """
         if len(str(num)) == 1:
             return f' {int(num)}'
         else:
             return num
     
     def block_or_dot(self, n):
-        # tool that replaces the value False with a dot '.' and the True with a block '█'
+        """ tool that replaces the value False with a dot '.' and the True with a block '█' """
         if n == 1:
             return '█'
         else:
@@ -59,12 +59,12 @@ class BookingSeats:
         self.save()
     
     def save(self):
-        # save the seats in the file
+        """ save the seats in the file """
         with open('seats.json', 'w') as f:
             json.dump(self.seats_dict, f, indent = 4)
     
     def reset(self):
-        # tool for resetting all the seats in the file or creating if it doesn't exist
+        """ tool for resetting all the seats in the file or creating if it doesn't exist """
         self.seats_dict = {}
         for i in range(1, 34):
             self.seats_dict['seat' + str(i)] = {'A': False, 'B': False, 'C': False, 'D': False, 'E': False, 'F': False}
@@ -72,7 +72,7 @@ class BookingSeats:
             json.dump(self.seats_dict, f, indent=4)
 
     def ask_seats_number(self):
-        # asking the seats, with exeption handling
+        """ asking the seats, with exeption handling """
         while True:
             try:
                 print("press (Q or q) for leaving the program")
@@ -85,7 +85,7 @@ class BookingSeats:
                 print('Input error!!!!')
 
     def ask_which_seats(self):
-        # asking which seats, with exeption handling
+        """ asking which seats, with exeption handling """
         while True:
             try:
                 print("\npress (Q or q) for leaving the program")
