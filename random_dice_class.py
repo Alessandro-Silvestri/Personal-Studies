@@ -1,5 +1,5 @@
 # Made by Alessandro Silvestri
-# Roll 2 dices (using a class), the result is a tuple
+# Roll 2 dice (using a class), the result is a tuple
 # I created function in a class
 
 import random
